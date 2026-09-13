@@ -10,7 +10,7 @@ return {
     changelogs = { -- changelogs
         ""
     },
-    codes = { -- codes list
+    codes = { -- active codes list
         "WORLDCUP26"
         "DOG",
         "SHARK"
