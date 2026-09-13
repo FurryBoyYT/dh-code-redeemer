@@ -11,9 +11,9 @@ return {
         ""
     },
     codes = { -- codes list
-        "BUFF",
+        "WORLDCUP26"
         "DOG",
         "SHARK"
-        "WORLDCUP26"
+        "BUFF",
     }
 }
