@@ -4,8 +4,12 @@ return {
     totalcash = 1_100_000, -- Total cash from all codes
     credit = "FurryBoy", -- Credits to me!
     rate = 5, -- da hood has redeem ratelimit
-    announcement = {}, -- announcement
-    changelogs = {}, -- changelogs
+    announcement = { -- announcement
+        "New code BUFF is out!",
+    },
+    changelogs = { -- changelogs
+        "Removed WORLDCUP26 (expired)",
+    },
     codes = { -- active codes list
         "DOG",
         "SHARK",
